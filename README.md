@@ -1,4 +1,4 @@
-## Hi there, I'm Lia Chavez 👋
+## Hi there, I'm Lia Chavez 💗
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -12,13 +12,13 @@
   <a href="mailto:chavezlia8@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## ⭐ About Me 
 I'm a recent graduate from California State University, San Marcos, with a BS in Computer Science, and I am pursuing further education at San Diego State University in the Fall of 2026 to further my skills in data analytics. 
 
 When I'm not working, I enjoy crocheting and watching anime.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://liachavez.github.io/)
+### [✨ Check Out My Full Portfolio Website ✨](https://liachavez.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
