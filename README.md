@@ -22,14 +22,12 @@ When I'm not working, I enjoy crocheting and watching anime.
       
 ## 🔭 What I'm Currently Working On 
 
-- **RF-DETR Maritime:** Building an RF-DETR model for autonomous navigation in Python. 
-- **Stock Market Predictor:** Building a LSTM model to predict stock market trends in Python. 
+- **Trend Forecasting:** This project aims to predict future fashion trends by analyzing historical data. 
 
 ## 🌱 Currently Learning 
 
 - Power BI
 - Tableau
-- R
 
 ## 🛠️ Technical Skillset
 
