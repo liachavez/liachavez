@@ -13,9 +13,9 @@
 </p>
 
 ## ⭐ About Me 
-I'm a recent graduate from California State University, San Marcos, with a BS in Computer Science, and I am pursuing further education at San Diego State University in the Fall of 2026 to further my skills in data analytics. 
+I'm a recent graduate from California State University, San Marcos, with a BS in Computer Science, and I am pursuing further education at San Diego State University in the Fall of 2026 to further my skills in data science. 
 
-When I'm not working, I enjoy playing chess and sudoku.
+When I'm not studying or working, I enjoy playing chess and sudoku.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [✨ Check Out My Full Portfolio Website ✨](https://liachavez.github.io/)
