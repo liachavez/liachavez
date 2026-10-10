@@ -23,6 +23,8 @@ When I'm not studying or working, I enjoy playing chess and sudoku.
 ## 🔭 What I'm Currently Working On 
 
 - **Traffic Forecasting:** This project aims to build and compare machine learning models that forecast highway traffic speed. The task is: Given the previous 60 minutes of traffic speed observations, predict traffic speeds for the following 60 minutes. This project is built on the METR-LA sensor dataset.
+- **CRKL-Space:** This project aims to localize scattered and complex space science data into one database.  
+
 
 ## 🛠️ Relevant Courses 
 
