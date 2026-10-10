@@ -13,7 +13,7 @@
 </p>
 
 ## ⭐ About Me 
-I'm a recent graduate from California State University, San Marcos, with a BS in Computer Science, and I am pursuing further education at San Diego State University in the Fall of 2026 to further my skills in data science. 
+I am a class of 2028 graduate student at San Diego State University pursuing my M.S in Computer Science. After doing my undergraduate degree in Computer Science at California State University, San Marcos I wanted to gain more experience in Data Science and Machine Learning. I am someone who enjoys solving puzzles and finding solutions. I am eager to expand my experience in the field of Data Science and to solve real problems. 
 
 When I'm not studying or working, I enjoy playing chess and sudoku.
 
@@ -22,24 +22,21 @@ When I'm not studying or working, I enjoy playing chess and sudoku.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Trend Forecasting:** This project aims to predict future fashion trends by analyzing historical data. 
+- **Traffic Forecasting:** This project aims to build and compare machine learning models that forecast highway traffic speed. The task is: Given the previous 60 minutes of traffic speed observations, predict traffic speeds for the following 60 minutes. This project is built on the METR-LA sensor dataset.
 
-## 🌱 Currently Learning 
+## 🛠️ Relevant Courses 
 
-- Power BI
-- Tableau
+- Machine Learning, Database Management, Embedded Systems, Cloud Computing 
 
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+   <img src="https://img.shields.io/badge/Jupyter Notebook-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="Jupyter Notebook Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
