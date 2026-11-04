@@ -13,7 +13,7 @@
 </p>
 
 ## ⭐ About Me 
-I am a class of 2028 graduate student at San Diego State University pursuing my M.S in Computer Science. After doing my undergraduate degree in Computer Science at California State University, San Marcos I wanted to gain more experience in Data Science and Machine Learning. I am someone who enjoys solving puzzles and finding solutions. I am eager to expand my experience in the field of Data Science and to solve real problems. 
+I am a class of 2028 graduate student at San Diego State University pursuing my M.S in Computer Science. After doing my B.S in Computer Science at California State University, San Marcos I wanted to gain more experience in Data Science and Machine Learning. I am someone who enjoys solving puzzles and finding solutions. I am eager to expand my experience in the field of Data Science and to solve real problems. 
 
 When I'm not studying or working, I enjoy playing chess and sudoku.
 
