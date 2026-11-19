@@ -15,14 +15,13 @@
 ## ⭐ About Me 
 I am a graduate student at San Diego State University, pursuing an M.S. in Artificial Intelligence and Technology, with an expected graduation date of 2028. After earning my B.S. in Computer Science from California State University San Marcos, I decided to further develop my knowledge and skills in Data Science and Machine Learning. I enjoy tackling challenges, solving problems, and finding creative solutions. I am passionate about using technology and data to address real-world problems and am eager to continue expanding my experience in the fields of Data Science, Machine Learning, and Artificial Intelligence. 
 
-Outside of academics and work, I enjoy playing chess and Sudoku, which allow me to continue exercising my problem-solving and critical-thinking skills.
+Outside of academics and work, I enjoy playing chess and sudoku, which allow me to continue exercising my problem-solving and critical-thinking skills.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [✨ Check Out My Full Portfolio Website ✨](https://liachavez.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Traffic Forecasting:** Developed a machine learning project to forecast highway traffic speeds using the METR-LA dataset, which contains data from 207 traffic sensors across Los Angeles. The project focuses on building and comparing predictive models to analyze traffic patterns and forecast speeds up to 60 minutes ahead.
+- **Traffic Forecasting:** Developing a machine learning project to forecast highway traffic speeds using the METR-LA dataset, which contains data from 207 traffic sensors across Los Angeles. Theis project focuses on building and comparing predictive models to analyze traffic patterns and forecast speeds up to 60 minutes ahead.
 - **CRKL-Space:** This project aims to localize scattered and complex space science data into one database. Focus is on database design and management. 
 
 
