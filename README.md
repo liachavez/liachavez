@@ -21,7 +21,7 @@ Outside of academics and work, I enjoy playing chess and sudoku, which allow me 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Traffic Forecasting:** Developing a machine learning project to forecast highway traffic speeds using the METR-LA dataset, which contains data from 207 traffic sensors across Los Angeles. Theis project focuses on building and comparing predictive models to analyze traffic patterns and forecast speeds up to 60 minutes ahead.
+- **Traffic Forecasting:** Developing a machine learning project to forecast highway traffic speeds using the METR-LA dataset, which contains data from 207 traffic sensors across Los Angeles. This project focuses on building and comparing predictive models to analyze traffic patterns and forecast speeds up to 60 minutes ahead.
 - **CRKL-Space:** This project aims to localize scattered and complex space science data into one database. Focus is on database design and management. 
 
 
