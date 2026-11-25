@@ -33,7 +33,7 @@ Outside of academics and work, I enjoy playing chess and sudoku, which allow me 
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
    <img src="https://img.shields.io/badge/Jupyter Notebook-Beginner-4479A1?style=flat&logo=jupyternotebook&logoColor=white" alt="Jupyter Notebook Skill Badge">
 </p>
 
